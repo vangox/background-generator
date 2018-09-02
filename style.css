@@ -1,0 +1,6 @@
+body {
+  font: 'Raleway', sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  background: linear-gradient(to right, red, yellow);
+}
